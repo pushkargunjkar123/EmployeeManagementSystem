@@ -1,5 +1,0 @@
-com\pushkar\controller\EmployeeResource.class
-com\pushkar\repository\EmployeeRepository.class
-com\pushkar\model\Employee.class
-com\pushkar\service\EmployeeService.class
-com\pushkar\crudApp.class
